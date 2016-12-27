@@ -1,0 +1,8 @@
+[main]
+url = http://127.0.0.1/test.php
+url_type = php
+num = 100
+
+[file]
+file1 = pass1.txt
+file2 = pass2.txt
